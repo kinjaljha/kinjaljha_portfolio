@@ -51,7 +51,7 @@ export default class Header extends Component {
                 <div className='twelve columns'>
                   <h3>Volansys Technologies</h3>
                   <p className='info'>
-                    Software Engineer <span>•</span> <em className='date'>June 2019 - Present</em>
+                    Software Engineer <span>•</span> <em className='date'>June 2019 - Present</em><span>•</span> Ahmedabad, Gujarat
                   </p>
                   <p>
                     <h6>IIot Device Management System for Refrigeration</h6>
@@ -108,24 +108,42 @@ export default class Header extends Component {
                     <span>•</span> Pune, India
                   </p>
                   <p>
-                    <ul>
-                      <li>
                         <h6>Finacle Solutions</h6>
                         Worked on Finacle Core Banking Solutions by Edge Verve Ltd, as a part of FEBA Customization team, worked with Java and Unix
-                      </li>
-                      <li>
                         <h6>Deutsche Bank Project</h6>
                         Worked in Front End Automation, handled OCC and I-Cape applications. Worked with Java, Eclipse, BDD Cucumber, ALM
-                      </li>
-                      <li>
                         <h6>Proximus Solutions</h6>
                         Implemented SV module which accepts device installation details(XML) and create response based on nearest service provider
-                      </li>
-                    </ul>
                   </p>
                 </div>
               </div>{' '}
               {/* item end */}
+              <div className='row item'>
+                <div className='twelve columns'>
+                  <h3>Freelancing Project</h3>
+                  <p className='info'>
+                    Backend Engineer 
+                    <span>•</span> Pune, India
+                  </p>
+                  <p>
+                  <h6>Customer Data Platform</h6>
+                  A Customer Data Platform (CDP) is a software that aggregates and organizes 
+                  customer data across a variety of touchpoints and is used by other software, 
+                  systems, and marketing efforts. CDPs collect and structure real-time data 
+                  into individual, centralized customer profiles.
+                  </p>
+                  <span>•</span>&nbsp;&nbsp;&nbsp;&nbsp;Developed RESTful APIs in Node.js. Used Express.js, for documentation and routing,
+                    <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JWT and passport(for authentication).<br />
+                    <span>•</span>&nbsp;&nbsp;&nbsp;&nbsp;Wrote a python script to generate the required data for the portal. 
+                    <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Used multiprocessing to improve the performance of data generation script
+                </div>
+
+                 
+
+
+
+              </div>{' '}
+
             </div>{' '}
             {/* main-col end */}
           </div>{' '}
