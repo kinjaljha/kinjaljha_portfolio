@@ -15,8 +15,8 @@ export default class Header extends Component {
               <li><a className="smoothscroll" href="#about">About</a></li>
               <li><a className="smoothscroll" href="#resume">Resume</a></li>
               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-              <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-              <li><a className="smoothscroll" href="#contact">Contact</a></li>
+              <li><a className="smoothscroll" href="#testimonials">QuirkyQoutes</a></li>
+              {/* <li><a className="smoothscroll" href="#contact">Contact</a></li> */}
             </ul> {/* end #nav */}
           </nav> {/* end #nav-wrap */}
           <div className="row banner">
@@ -40,3 +40,17 @@ export default class Header extends Component {
     );
   }
 }
+
+
+
+          {/* <div id="modal-02" className="popup-modal mfp-hide">
+      <img className="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
+      <div className="description-box">
+        <h4>Task Manager</h4>
+        <p>A backend project including API for create/update/delete functionalities in Express JS, data is maintained in MongoDB, Mongoose for scheme definition, and Chai, Mocha for unit testcasing</p>
+        {/* <span className="categories"><i className="fa fa-tag" />Branding, Webdesign</span> 
+      </div>
+      <div className="link-box">
+        <a href="https://github.com/kinjaljha/task_manager">Details</a>
+        <a className="popup-modal-dismiss">Close</a>
+      </div>*/}
