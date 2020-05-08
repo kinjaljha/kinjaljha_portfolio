@@ -12,7 +12,7 @@ export default class Header extends Component {
             <li><a href="https://www.facebook.com/kinjal.jha.71" target='_blank'><i className="fa fa-facebook" /></a></li>
                 <li><a href="https://twitter.com/jha_kinjal" target='_blank'><i className="fa fa-twitter" /></a></li>
                 <li><a href="https://www.linkedin.com/in/kinjal-jha-88102110b/" target='_blank'><i className="fa fa-linkedin" /></a></li>
-                <li><a href="https://www.instagram.com/kinjal_jha/" target='_blank'><i className="fa fa-instagram" /></a></li>
+                {/* <li><a href="https://www.instagram.com/kinjal_jha/" target='_blank'><i className="fa fa-instagram" /></a></li> */}
             </ul>
             <ul className="copyright">n
               <li>© Copyright 2020 Kinjal Jha</li>
