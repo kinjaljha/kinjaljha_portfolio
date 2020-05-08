@@ -28,7 +28,7 @@ export default class Header extends Component {
                 <div className='twelve columns'>
                   <h3>Reliance School</h3>
                   <p className='info'>
-                    Secondary and Senior Secondary Education<span>•</span> <em className='date'>2009 - 2012</em>
+                    Secondary and Senior Secondary Education<span>•</span> <em className='date'>2011 - 2013</em>
                   </p>
                   <p></p>
                 </div>
