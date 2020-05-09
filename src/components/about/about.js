@@ -26,7 +26,7 @@ export default class Header extends Component {
                     Zanzar<br />
                     Singapore 140055
                   </span><br /> */}
-                  <span>+91-7226009231</span><br />
+                  {/* <span>+91-7226009231</span><br /> */}
                   <span>kinjaljha3@gmail.com</span>
                 </p>
               </div>
