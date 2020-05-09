@@ -16,7 +16,7 @@ export default class Header extends Component {
             <div className='nine columns main-col'>
               <div className='row item'>
                 <div className='twelve columns'>
-                  <h3>Dharm Sinh Desai University, Nadiad, Gujarat</h3>
+                  <h3>DharmSinh Desai University, Nadiad, Gujarat</h3>
                   <p className='info'>
                     B. Tech. in Computer Science and Engineering<span>•</span> <em className='date'>2013 - 2017</em>
                   </p>

@@ -15,7 +15,7 @@ export default class Header extends Component {
               with Databases (MySQL, MongoDB). Experience 
               in app development with MERN(Mongo DB, Express JS, React JS/ Redux and Node JS) stack technology . 
               Strong engineering professional with Bachelor of Technology (B.Tech.) focused 
-              in Computer Science and Engineering from Dharm Sinh Desai University, Gujarat. 
+              in Computer Science and Engineering from DharmSinh Desai University, Gujarat. 
             </p>
             <div className="row">
               <div className="columns contact-details">
